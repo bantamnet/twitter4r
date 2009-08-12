@@ -1,7 +1,7 @@
 # Generated: Thu, 23 Jul 2009 02:00:13 -0000
 Gem::Specification.new do |s|
   s.name = "twitter4r"
-  s.version = "0.4.0"
+  s.version = "0.4.0.1"
   s.platform = Gem::Platform::RUBY
   s.has_rdoc = true
   s.extra_rdoc_files = ["README","CHANGES","TODO","MIT-LICENSE",]
